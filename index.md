@@ -1,20 +1,51 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Data Analysis
 
-### CS224n: Natural Language Processing with Deep Learning
+### BTE420: Python Programming for Fintech
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+Final Project for [***BTE420: Python Programming for Fintech***] by University of Miami (Fall, 2019).
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+**Istanbul Stock Exchange Regression:** Trained a Regression Model to predict ISE stock prices using historical data of other international indices as inputs. Split the data into train and test sets, then used the training set and the SciKitLearn's Decision Tree Regressor to train a model. Created a simple visualization that demonstrated the regression's accuracy by comparing predicted versus actual ISE prices of the test dataset.  ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
 <center><img src="images/nlp.png"/></center>
 
 ---
+
+### BTE 400: Web-Mobile-Cloud
+
+Final Project for [***BTE 400: Web-Mobile-Cloud***] by University of Miami (Fall, 2023).
+
+**E-Commerce Innovation:** Created an e-commerce business using OpenCart to design an online storefront with multiple webpages that provided information about the company and a catalog of its products, as well as a functional checkout page. My primary contribution to the project was to create and train a chatbot that answered questions about the company, the products, and pricing information. I created it using Dialogflow on Google Cloud Platform and then installed it on the website using HTML. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+
+---
+
+### BTE 471: AI Programming for Business Management
+
+Final Project for [***BTE 471: AI Programming for Business Management***] by University of Miami (Fall, 2023).
+
+**AI Innovation for Tasty Co:** Created a recipe recommendation system for Tasty Co to offer to its users that suggested Tasty Recipes based on ingredients that are input by user. Developed a Prolog program that returned relevant recipes when given inputs of ingredients that users wanted to put to use. Developed a flowchart of the program's process and visualizations for potential UX/UI design. Presented the idea, noting the interest that Tasty's target market has in AI and sustainability as well as the product's ability to serve as a sustainably-minded response to the global food waste problem. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+
+---
+
+### BTE 423: Database Management Systems
+
+Final Project for [***BTE 423: Database Management Systems***] by University of Miami (Fall, 2022).
+
+**Publishing Company Database Design and Query:** Used SQL to create and populate a database for a printing and publishing company, then completed queries to solve business problems. Created an ERD (entity relationship diagram) to represent the entities (Authors, Publishers, Books etc) and how they relate to eachother. Then used the ERD as a framework for database design in SQL. Finally, performed queries to analyze success of various authors, genres, and more. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+
+
+<center><img src="images/nlp.png"/></center>
+
+---
+
+### BTE 423: Database Management Systems
+
+
+
+---
+
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
