@@ -20,6 +20,8 @@ Final Project for [***BTE 400: Web-Mobile-Cloud***] by University of Miami (Fall
 
 **E-Commerce Innovation:** Created an e-commerce business using OpenCart to design an online storefront with multiple webpages that provided information about the company and a catalog of its products, as well as a functional checkout page. My primary contribution to the project was to create and train a chatbot that answered questions about the company, the products, and pricing information. I created it using Dialogflow on Google Cloud Platform and then installed it on the website using HTML. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
+<center><img src="images/Dflow1.png"/></center>
+<center><img src="images/opencart.png"/></center>
 ---
 ## AI Programming
 
