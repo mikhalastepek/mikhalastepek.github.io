@@ -12,6 +12,7 @@ Final Project for [***BTE420: Python Programming for Fintech***] by University o
 <center><img src="images/nlp.png"/></center>
 
 ---
+## Cloud and Web Design
 
 ### BTE 400: Web-Mobile-Cloud
 
@@ -20,6 +21,7 @@ Final Project for [***BTE 400: Web-Mobile-Cloud***] by University of Miami (Fall
 **E-Commerce Innovation:** Created an e-commerce business using OpenCart to design an online storefront with multiple webpages that provided information about the company and a catalog of its products, as well as a functional checkout page. My primary contribution to the project was to create and train a chatbot that answered questions about the company, the products, and pricing information. I created it using Dialogflow on Google Cloud Platform and then installed it on the website using HTML. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
 ---
+## AI Programming
 
 ### BTE 471: AI Programming for Business Management
 
@@ -28,6 +30,7 @@ Final Project for [***BTE 471: AI Programming for Business Management***] by Uni
 **AI Innovation for Tasty Co:** Created a recipe recommendation system for Tasty Co to offer to its users that suggested Tasty Recipes based on ingredients that are input by user. Developed a Prolog program that returned relevant recipes when given inputs of ingredients that users wanted to put to use. Developed a flowchart of the program's process and visualizations for potential UX/UI design. Presented the idea, noting the interest that Tasty's target market has in AI and sustainability as well as the product's ability to serve as a sustainably-minded response to the global food waste problem. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
 ---
+## Database Design and Querying
 
 ### BTE 423: Database Management Systems
 
