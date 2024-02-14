@@ -33,9 +33,9 @@ Final Project for [***BTE 471: AI Programming for Business Management***] by Uni
 
 **AI Innovation for Tasty Co:** Created a recipe recommendation system for Tasty Co to offer to its users that suggested Tasty Recipes based on ingredients that are input by user. Developed a Prolog program that returned relevant recipes when given inputs of ingredients that users wanted to put to use. Developed a flowchart of the program's process and visualizations for potential UX/UI design. Presented the idea, noting the interest that Tasty's target market has in AI and sustainability as well as the product's ability to serve as a sustainably-minded response to the global food waste problem. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
-<center><img src="images/foodviz.png"/></center>
-<center><img src="images/foodflow.png"/></center>
 
+<center><img src="images/foodflow.png" style="float:right;width:42px;height:42px /></center>
+<center><img src="images/foodviz.png"/></center>
 ---
 ## Database Design and Querying
 
