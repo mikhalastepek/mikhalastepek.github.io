@@ -22,7 +22,9 @@ Final Project for [***BTE 400: Web-Mobile-Cloud***] by University of Miami (Fall
 
 <center><img src="images/Dflow1.png"/></center>
 <center><img src="images/opencart.png"/></center>
+
 ---
+
 ## AI Programming
 
 ### BTE 471: AI Programming for Business Management
