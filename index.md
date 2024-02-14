@@ -46,7 +46,7 @@ Final Project for [***BTE 423: Database Management Systems***] by University of 
 **Publishing Company Database Design and Query:** Used SQL to create and populate a database for a printing and publishing company, then completed queries to solve business problems. Created an ERD (entity relationship diagram) to represent the entities (Authors, Publishers, Books etc) and how they relate to eachother. Then used the ERD as a framework for database design in SQL. Finally, performed queries to analyze success of various authors, genres, and more. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/ERD.png"/></center>
 
 ---
 
