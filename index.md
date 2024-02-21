@@ -6,7 +6,7 @@
 
 Final Project for [***BTE420: Python Programming for Fintech***] by University of Miami (Fall, 2019).
 
-**Istanbul Stock Exchange Regression:** Trained a Regression Model to predict ISE stock prices using historical data of other international indices as inputs. Split the data into train and test sets, then used the training set and the SciKitLearn's Decision Tree Regressor to train a model. Created a simple visualization that demonstrated the regression's accuracy by comparing predicted versus actual ISE prices of the test dataset.  ([GitHub](https://github.com/mikhalastepek/Istanbul-Stock-Exchange-Regression)).
+**Istanbul Stock Exchange Regression:** Trained a Regression Model to predict ISE stock prices using historical data of other international indices as inputs. Split the data into train and test sets, then used the training set and the SciKitLearn's Decision Tree Regressor to train a model. Created a simple visualization that demonstrated the regression's accuracy by comparing predicted versus actual ISE prices of the test dataset.  ([GitHub](https://github.com/mikhalastepek/Istanbul-Stock-Exchange-Regression/blob/9eb411ce98719909cb44e708834aff1d285c1f58/final_project_bte420.ipynb)).
 
 
 <center><img src="images/fintechgraph.png"/></center>
@@ -18,7 +18,7 @@ Final Project for [***BTE420: Python Programming for Fintech***] by University o
 
 Final Project for [***BTE 400: Web-Mobile-Cloud***] by University of Miami (Fall, 2023).
 
-**E-Commerce Innovation:** Created an e-commerce business using OpenCart to design an online storefront with multiple webpages that provided information about the company and a catalog of its products, as well as a functional checkout page. My primary contribution to the project was to create and train a chatbot that answered questions about the company, the products, and pricing information. I created it using Dialogflow on Google Cloud Platform and then installed it on the website using HTML. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**E-Commerce Innovation:** Created an e-commerce business using OpenCart to design an online storefront with multiple pages that provided information about the company and a catalog of its products, as well as a functional checkout page. My primary contribution to the project was to create and train a chatbot that answered questions about the company, the products, and pricing information. I created it using Dialogflow on Google Cloud Platform and then installed it on the website using HTML. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
 <center><img src="images/Dflow1.png"/></center>
 <center><img src="images/opencart.png"/></center>
@@ -31,7 +31,7 @@ Final Project for [***BTE 400: Web-Mobile-Cloud***] by University of Miami (Fall
 
 Final Project for [***BTE 471: AI Programming for Business Management***] by University of Miami (Fall, 2023).
 
-**AI Innovation for Tasty Co:** Created a recipe recommendation system for Tasty Co to offer to its users that suggested Tasty Recipes based on ingredients that are input by user. Developed a Prolog program that returned relevant recipes when given inputs of ingredients that users wanted to put to use. Developed a flowchart of the program's process and visualizations for potential UX/UI design. Presented the idea, noting the interest that Tasty's target market has in AI and sustainability as well as the product's ability to serve as a sustainably-minded response to the global food waste problem. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**AI Innovation for Tasty Co:** Created a recipe recommendation system for Tasty Co that suggested Tasty Recipes based on input ingredients from users. Developed a Prolog program that returned relevant recipes given ingredients that customers wanted to put to use. Developed a flowchart of the program's process and visualizations for potential UX/UI design. Presented the idea, noting the interest that Tasty's target market has in AI and sustainability as well as the product's ability to serve as a sustainably-minded response to the global food waste problem. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
 <center><img src="images/foodviz.png"/></center>
 
@@ -50,7 +50,7 @@ Final Project for [***BTE 423: Database Management Systems***] by University of 
 
 ---
 
-### BTE 423: Database Management Systems
+### MAS 332: Database Management Systems
 
 
 
