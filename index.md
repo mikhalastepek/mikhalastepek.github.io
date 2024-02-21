@@ -6,7 +6,7 @@
 
 Final Project for [***BTE420: Python Programming for Fintech***] by University of Miami (Fall, 2019).
 
-**Istanbul Stock Exchange Regression:** Trained a Regression Model to predict ISE stock prices using historical data of other international indices as inputs. Split the data into train and test sets, then used the training set and the SciKitLearn's Decision Tree Regressor to train a model. Created a simple visualization that demonstrated the regression's accuracy by comparing predicted versus actual ISE prices of the test dataset.  ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Istanbul Stock Exchange Regression:** Trained a Regression Model to predict ISE stock prices using historical data of other international indices as inputs. Split the data into train and test sets, then used the training set and the SciKitLearn's Decision Tree Regressor to train a model. Created a simple visualization that demonstrated the regression's accuracy by comparing predicted versus actual ISE prices of the test dataset.  ([GitHub](https://github.com/mikhalastepek/Istanbul-Stock-Exchange-Regression)).
 
 
 <center><img src="images/fintechgraph.png"/></center>
