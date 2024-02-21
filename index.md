@@ -57,7 +57,7 @@ Final Project for [***MAS 332: Data Acquisition, Preparation and Visualization**
 **Human Development Index Dashboard on Gross National Income Statistics:** •	Uploaded Human Development Index data to Tableau to analyze factors that contribute to HDI; cleaned and pre-processed data in Excel, then analyzed and created visualizations in Tableau. Our visualization focused on demonstrating variances in GNI by country, geographic region, gender, and year.
 
 
-
+<center><img src="images/GNI-Stats-screenshot.png"/></center>
 ---
 
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
