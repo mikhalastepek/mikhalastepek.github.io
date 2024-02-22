@@ -43,7 +43,7 @@ Final Project for [***BTE 471: AI Programming for Business Management***] by Uni
 
 Final Project for [***BTE 423: Database Management Systems***] by University of Miami (Fall, 2022).
 
-**Publishing Company Database Design and Query:** Used SQL to create and populate a database for a printing and publishing company, then completed queries to solve business problems. Created an ERD (entity relationship diagram) to represent the entities (Authors, Publishers, Books etc) and how they relate to eachother. Then used the ERD as a framework for database design in SQL. Finally, performed queries to analyze success of various authors, genres, and more. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Publishing Company Database Design and Query:** Used SQL to create and populate a database for a printing and publishing company, then completed queries to solve business problems. Created an ERD (entity relationship diagram) to represent the entities (Authors, Publishers, Books etc) and how they relate to eachother. Then used the ERD as a framework for database design in SQL. Finally, performed queries to analyze success of various authors, genres, and more. ([GitHub](https://github.com/mikhalastepek/U-R-Published-Database-Design/blob/92fcfffdcc4a2bd41059b0b982fbbf37005e9836/database-and-queries.sql)).
 
 
 <center><img src="images/ERD.png"/></center>
