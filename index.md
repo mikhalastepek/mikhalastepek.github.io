@@ -71,6 +71,7 @@ Final Project and other assignments for [***MMAS 547: Computer Simulation System
 
 <center><img src="images/GroceryAnimation.png"/></center>
 <center><img src="images/GroceryFLow.png"/></center>
+---
 
 **Hospital simulation queuing theory analysis:** Used SIMIO to simulate patients (walk in and scheduled) moving through a hospital with various types of rooms and appointments (Lab, Triage, XRay, MRI, EKG, treatment). Created a database of types of patients and treatments and assigned probability distributions to different combinations of patient and treatment types to define service time. Created pie charts and line graphs to track server utilization, and compared outcomes with deterministic values calculated in excel. Ran multiple simulations for varying interarrival times. Analyzed utilization rates and time in system after running simulations, and provided suggestions to increase efficiency of the system.
 
