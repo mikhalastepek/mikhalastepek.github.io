@@ -69,12 +69,12 @@ Final Project and other assignments for [***MMAS 547: Computer Simulation System
 **Grocery Store Checkout queuing analysis:** Simulated a grocery store checkout system in SIMIO with 4 regular checkout lanes and 1 self checkout lane, with the goal of determining the optimal number of self checkout registers within the self checkout lane to move customers through the checkout process the fastest. Researched and collected data to assign accurate processing times to different servers and accurate arrival rates to different times of day. Created a model animation and ran simulations testing various numbers of self checkout registers to determine which is most efficient.
 
 
-<center><img src="images/GNI-Stats-screenshot.png"/></center>
-<center><img src="images/GNI-Stats-screenshot.png"/></center>
+<center><img src="images/GroceryAnimation.png"/></center>
+<center><img src="images/GroceryFLow.png"/></center>
 
 **Hospital simulation queuing theory analysis:** Used SIMIO to simulate patients (walk in and scheduled) moving through a hospital with various types of rooms and appointments (Lab, Triage, XRay, MRI, EKG, treatment). Created a database of types of patients and treatments and assigned probability distributions to different combinations of patient and treatment types to define service time. Created pie charts and line graphs to track server utilization, and compared outcomes with deterministic values calculated in excel. Ran multiple simulations for varying interarrival times. Analyzed utilization rates and time in system after running simulations, and provided suggestions to increase efficiency of the system.
 
 
-<center><img src="images/GNI-Stats-screenshot.png"/></center>
-<center><img src="images/GNI-Stats-screenshot.png"/></center>
+<center><img src="images/hospitalanimation.png"/></center>
+<center><img src="images/hospitaldatabase.png"/></center>
 ---
