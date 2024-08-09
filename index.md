@@ -1,22 +1,12 @@
 # Portfolio
 ---
 ## Data Analysis and Database Design
-
-### BTE420: Python Programming for Fintech
-
-Final Project for [***BTE420: Python Programming for Fintech***] by University of Miami (Spring, 2022).
-
-**Istanbul Stock Exchange Regression:** Trained a Regression Model to predict ISE stock prices using historical data of other international indices as inputs. Split the data into train and test sets, then used the training set and the SciKitLearn's Decision Tree Regressor to train a model. Created a simple visualization that demonstrated the regression's accuracy by comparing predicted versus actual ISE prices of the test dataset.  ([GitHub](https://github.com/mikhalastepek/Istanbul-Stock-Exchange-Regression/blob/9eb411ce98719909cb44e708834aff1d285c1f58/final_project_bte420.ipynb)).
-
-
-<center><img src="images/fintechgraph.png"/></center>
-
 ---
 ### BTE 423: Database Management Systems
 
 Final Project for [***BTE 423: Database Management Systems***] by University of Miami (Fall, 2022).
 
-**Publishing Company Database Design and Query:** Used SQL to create and populate a database for a printing and publishing company, then completed queries to solve business problems. Created an ERD (entity relationship diagram) to represent the entities (Authors, Publishers, Books etc) and how they relate to eachother. Then used the ERD as a framework for database design in SQL. Finally, performed queries to analyze success of various authors, genres, and more. ([GitHub](https://github.com/mikhalastepek/U-R-Published-Database-Design/blob/92fcfffdcc4a2bd41059b0b982fbbf37005e9836/database-and-queries.sql)).
+**Publishing Company Database Design and Query:** Used SQL to create and populate a database for a printing and publishing company, then completed queries to solve business problems. Created an ERD (entity relationship diagram) to represent the entities (Authors, Publishers, Books etc) and how they relate to eachother. Then used the ERD as a framework for database design in SQL. Finally, performed queries to gather insights on the success of various authors, genres, and more. ([GitHub](https://github.com/mikhalastepek/U-R-Published-Database-Design/blob/92fcfffdcc4a2bd41059b0b982fbbf37005e9836/database-and-queries.sql)).
 
 
 <center><img src="images/ERD.png"/></center>
@@ -30,6 +20,16 @@ Final Project for [***MAS 332: Data Acquisition, Preparation and Visualization**
 
 
 <center><img src="images/GNI-Stats-screenshot.png"/></center>
+
+### BTE420: Python Programming for Fintech
+
+Final Project for [***BTE420: Python Programming for Fintech***] by University of Miami (Spring, 2022).
+
+**Istanbul Stock Exchange Regression:** Trained a Regression Model to predict ISE stock prices using historical data of other international indices as inputs. Split the data into train and test sets, then used the training set and the SciKitLearn's Decision Tree Regressor to train a model. Created a simple visualization that demonstrated the regression's accuracy by comparing predicted versus actual ISE prices of the test dataset.  ([GitHub](https://github.com/mikhalastepek/Istanbul-Stock-Exchange-Regression/blob/9eb411ce98719909cb44e708834aff1d285c1f58/final_project_bte420.ipynb)).
+
+
+<center><img src="images/fintechgraph.png"/></center>
+
 ---
 
 ## Cloud and Web Design
@@ -56,7 +56,7 @@ Final Project for [***BTE 471: AI Programming for Business Management***] by Uni
 
 ---
 
-## Simulation Modeling
+## Simulation Modeling and Queueing Theory Analysis
 
 ### MAS 547: Computer Simulation Systems
 
