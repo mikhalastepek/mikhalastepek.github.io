@@ -1,7 +1,9 @@
 # Portfolio
+
 ---
+
 ## Data Analysis and Database Design
----
+
 ### BTE 423: Database Management Systems
 
 Final Project for [***BTE 423: Database Management Systems***] by University of Miami (Fall, 2022).
@@ -60,13 +62,14 @@ Final Project for [***BTE 471: AI Programming for Business Management***] by Uni
 
 ### MAS 547: Computer Simulation Systems
 
-Final Project and other assignments for [***MMAS 547: Computer Simulation Systems***] by University of Miami (Fall 2022).
+Final Project and other assignments for [***MAS 547: Computer Simulation Systems***] by University of Miami (Fall 2022).
 
 **Grocery Store Checkout queuing analysis:** Simulated a grocery store checkout system in SIMIO with 4 regular checkout lanes and 1 self checkout lane, with the goal of determining the optimal number of self checkout registers within the self checkout lane to move customers through the checkout process the fastest. Researched and collected data to assign accurate processing times to different servers and accurate arrival rates to different times of day. Created a model animation and ran simulations testing various numbers of self checkout registers to determine which is most efficient.
 
 
 <center><img src="images/GroceryAnimation.png"/></center>
 <center><img src="images/GroceryFLow.png"/></center>
+
 ---
 
 **Hospital simulation queuing theory analysis:** Used SIMIO to simulate patients (walk in and scheduled) moving through a hospital with various types of rooms and appointments (Lab, Triage, XRay, MRI, EKG, treatment). Created a database of types of patients and treatments and assigned probability distributions to different combinations of patient and treatment types to define service time. Created pie charts and line graphs to track server utilization, and compared outcomes with deterministic values calculated in excel. Ran multiple simulations for varying interarrival times. Analyzed utilization rates and time in system after running simulations, and provided suggestions to increase efficiency of the system.
@@ -75,3 +78,14 @@ Final Project and other assignments for [***MMAS 547: Computer Simulation System
 <center><img src="images/hospitalanimation.png"/></center>
 <center><img src="images/hospitaldatabase.png"/></center>
 ---
+
+## Software Engineering
+
+### BTE324: Object Oriented Programming with Java
+
+Final Project for BTE324 by the University of Miami (Spring 2024).
+
+**CaneEats Food Ordering System** Created an UberEats-like food ordering system where users can edit customer info, restaurant info, and create food orders from various restaurants. The system includes appdata, boundary, controller, database managers, entities, file managers, customer and restaurant info classes and utilities. The database managers use a driver to connect to a SQL database that I created and populated with restaurant, customer, and menu item data, which can all be created/edited through the application. Here is the ([link](https://github.com/mikhalastepek/CaneEats)) to my project files.
+
+
+
